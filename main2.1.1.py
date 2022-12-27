@@ -6,7 +6,7 @@ from openpyxl.styles import Font, Border, Side
 
 class Vacancy:
     currency_to_rub = {
-        "AZN": 35.68, "O": 23.91, "EUR": 59.90, "GEL": 21.74, "KGS": 0.76,
+        "AZN": 35.68, "R": 23.91, "EUR": 59.90, "GEL": 21.74, "KGS": 0.76,
         "KZT": 0.13, "RUR": 1, "UAH": 1.64, "USD": 60.66, "UZS": 0.0055,
     }
 
